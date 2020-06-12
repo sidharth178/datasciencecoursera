@@ -1,23 +1,25 @@
 ## Introduction
 
-This assignment uses data from
+The data used in this assignment are from this
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
-Learning Repository</a>, a popular repository for machine learning
-datasets. In particular, we will be using the "Individual household
-electric power consumption Data Set" which I have made available on
-the course web site:
+Learning Repository</a> is very popular repository for machine learning(ML)
+datasets. we will be using the "Individual household
+electric power consumption Data Set" which is available on
+the course website:
 
+## Datasets
 
-* <b>Dataset</b>: <a href="https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip">Electric power consumption</a> [20Mb]
+ <a href="https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip">Electric power consumption</a> [20Mb]
 
-* <b>Description</b>: Measurements of electric power consumption in
-one household with a one-minute sampling rate over a period of almost
+##Descriptions
+
+  Measurements of the electric power consumption in one household with a one-minute sampling rate over a period of almost
 4 years. Different electrical quantities and some sub-metering values
 are available.
 
 
-The following descriptions of the 9 variables in the dataset are taken
-from
+The 9 variables in the dataset for the following descriptions of are available here
+
 the <a href="https://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption">UCI
 web site</a>:
 
