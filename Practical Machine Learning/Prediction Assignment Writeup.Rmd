@@ -1,7 +1,7 @@
 ---
 title: "Prediction Assignment Writeup"
-author: "Muhammed Afifi Ibrahim"
-date: "November 18, 2016"
+author: "Sidharth Kumar Mohanty"
+date: "12th June 2020"
 output:
   html_document: default
   pdf_document:
@@ -15,7 +15,7 @@ output:
 For this assignment I analyzed the provided data to determine what activity an individual perform. To do this I made use of caret and randomForest which allowed me to generate correct answers for each of the 20 test data cases that provided in this assignment. I made use of a seed value for consistent results. 
 
 ```{r}
-setwd("~/Project/GitHub/datasciencecoursera/Machine_Learning")
+setwd("~/https://github.com/sidharth178/datasciencecoursera/tree/master/Practical%20Machine%20Learning")
 options(warn=-1)
 suppressWarnings(library(Hmisc))
 suppressWarnings(library(caret))
